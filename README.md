@@ -46,7 +46,7 @@ Column Headers: brand, model, car_name, car_category, price, trim, kilometers, y
 
 ### Data Cleaning
 
-In the initial data preparation phase, we performed the ff tasks:
+Data Cleaning was mainly done using Excel which performed the ff tasks:
 1. Data loading and inspection
 2. Handling missing values
 3. Treating outliers
