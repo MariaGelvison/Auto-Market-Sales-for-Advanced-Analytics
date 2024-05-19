@@ -52,7 +52,7 @@ Data Cleaning was mainly done using Excel which performed the ff tasks:
 3. Treating outliers
 4. Data Cleaning and formatting
 
-### Data Preparation
+### Data Preparation and Data Validation
 
 1. Carefully created a column “Categories” and manually classified each car into the following factors:
     - market positioning
@@ -65,7 +65,7 @@ Data Cleaning was mainly done using Excel which performed the ff tasks:
 
 
 2. Car prices adjustment
-   - Erronous data prices were observed, seems like three zeros "000" were missing for some 'high-end' cars. And thus, changing them into a more realistic amount by multiplying them into "1000" could create a more realistic analysis.
+   - Erronous data prices were observed, seems like three zeros "000" were missing for some 'high-end' car prices (might be a typo error). And thus, changing them into a more realistic amount by multiplying them into "1000" could create a more realistic analysis. Google seach helped to validate the data.
 
 
 
@@ -84,8 +84,42 @@ A comprehensive analysis of this dataset will be performed to provide insights s
   - Seating Capacity: The average seating capacity is about 4.6.
   - Number of Cylinders: On average, cars have about 5.75 cylinders.
 
-### Exploratory Data Analysis
-EDA involves expploring the sales data to answer the key questions, such as:
+
+## Mapping a Vehicle Sales Strategy to Maximize Profits
+
+### Market Preferences
+
+  - Customer preferences based on brand, category, and price ranges.
+  - Identify the percentage rate between the Premium car and the average affordable car based on price.
+  - Determine the percentage of the Total Premium cars.
+
+
+
+![image](https://github.com/MariaGelvison/AutoMarketSales_UAE/assets/170020192/1eaee97a-2435-44bd-a5ea-ad735a7f7b95)
+#### On total unit sales with 57.2%, customers preferred the affordable cars pricing < 135,000 aed.
+#### While, with 80% of sales on Brand new cars, customers preferred to buy Premium cars pricing > 135,000 aed.
+
+
+![image](https://github.com/MariaGelvison/AutoMarketSales_UAE/assets/170020192/ebea0be7-d9e4-416b-bf54-b8fd54809cbf)
+
+#### These 5 car categories were the top favorite categories of the customer in UAE. 
+
+![image](https://github.com/MariaGelvison/AutoMarketSales_UAE/assets/170020192/e48843fb-8ac7-4416-83e7-ab8d7da8f0ac)
+#### SUV as the most popular categories in most of the cities in UAE.
+
+![image](https://github.com/MariaGelvison/AutoMarketSales_UAE/assets/170020192/efaad9a9-19fc-46a1-b42b-aed7b2001b1b)
+#### Map shows that among UAE cities, Dubai is the home of Luxury Cars.
+
+![image](https://github.com/MariaGelvison/AutoMarketSales_UAE/assets/170020192/c4ab0090-7e86-4da8-816f-d15d63385c23)
+#### Mercedes-Benz with 15.4% of total numbers of Car brand sales lead the Market, followed by BMW and Nissan with 9% and 7% consiquently.
+
+
+
+
+
+
+
+
 
 
 
