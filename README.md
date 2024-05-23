@@ -116,8 +116,8 @@ Land Rover Range Rover under Premium_fullsize_SUV leading the Market.
 
 ## Recommendations
 
-  - Develop an all-out vehicle model for Flagship Model Market, preferably an SUV.
-  - Demonstrate oof-road capability, reliability, and durability
+  - Develop an all-out vehicle model for flagship model market, preferably an SUV.
+  - Demonstrate off-road capability, reliability, and durability
 
 #### Limitations
 Analysis result is limited due to the limitations of the dataset which might only from January 2024 to April 2024 Sales. In which I cannot confirm.
