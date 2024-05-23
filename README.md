@@ -13,26 +13,6 @@
 UAE Auto Market Sales Data for Advanced Analytics dataset is a comprehensive snapshot of current vehicle sales across the United Arab Emirates as of April 2024.
 Consists of 9,953 entries in the dataset, this analysis aims to provide deeper understanding of UAE vehicle market dynamics -- Mapping a Vehicle Sales Strategy to Maximize Profits.
 
-### Why UAE?
-The United Arab Emirates (UAE) is renowned for its lavish lifestyle and insatiable demand for high-end, luxury automobiles. As one of the world's wealthiest nations, the UAE boasts a thriving luxury car market that caters to the preferences of its affluent population.
-
-### Why focus on Luxury Car Market?
-  - Profit Margins
-      - Expensive cars produces more profit from high-end cars compared to average car type.
-  - Sustained Growth
-      - The UAE luxury car market is poised for continued expansion, driven by the country's growing affluent population and their insatiable appetite for premium vehicles.
-  - Increased Customization
-      - Demand for personalized, bespoke luxury vehicles is expected to rise as UAE buyers seek to express their unique style and preferences through their car purchases.
-   
-  #### Profit Margins
-
-  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/0fdf8858-ceca-4fc0-823f-dc3e75c74d33)
-  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/50f3d5b2-5a68-414c-88dc-3eef04f050ad)
-  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/1e46beb2-75f8-4c5f-8c49-1e34f352044d)
-
-
-Just by seeing these examples, how huge do you think the profit that car dealership's are  making for selling just 1 luxury car?
-
 
 ### Data Sources
 The primary dataset used for this analysis is the "car_dataset_uae.csv" file, cleaned data.
@@ -66,6 +46,28 @@ Data Cleaning was mainly done using Excel which performed the ff tasks:
 
 2. Car prices adjustment
    - Erronous data prices were observed, seems like three zeros "000" were missing for some 'high-end' car prices (might be a typo error). And thus, changing them into a more realistic amount by multiplying them into "1000" could create a more realistic analysis. Google seach helped to validate the data.
+
+  
+### Why UAE?
+The United Arab Emirates (UAE) is renowned for its lavish lifestyle and insatiable demand for high-end, luxury automobiles. As one of the world's wealthiest nations, the UAE boasts a thriving luxury car market that caters to the preferences of its affluent population.
+
+
+### Why focus on Luxury Car Market?
+  - Profit Margins
+      - Expensive cars produces more profit from high-end cars compared to average car type.
+  - Sustained Growth
+      - The UAE luxury car market is poised for continued expansion, driven by the country's growing affluent population and their insatiable appetite for premium vehicles.
+  - Increased Customization
+      - Demand for personalized, bespoke luxury vehicles is expected to rise as UAE buyers seek to express their unique style and preferences through their car purchases.
+   
+  #### Profit Margins
+
+  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/0fdf8858-ceca-4fc0-823f-dc3e75c74d33)
+  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/50f3d5b2-5a68-414c-88dc-3eef04f050ad)
+  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/1e46beb2-75f8-4c5f-8c49-1e34f352044d)
+
+
+Just by seeing these examples, how huge do you think the profit that car dealership's are  making for selling just 1 luxury car?
 
 
 
