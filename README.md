@@ -23,6 +23,15 @@ The United Arab Emirates (UAE) is renowned for its lavish lifestyle and insatiab
       - The UAE luxury car market is poised for continued expansion, driven by the country's growing affluent population and their insatiable appetite for premium vehicles.
   - Increased Customization
       - Demand for personalized, bespoke luxury vehicles is expected to rise as UAE buyers seek to express their unique style and preferences through their car purchases.
+   
+  #### Profit Margins
+
+  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/0fdf8858-ceca-4fc0-823f-dc3e75c74d33)
+  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/50f3d5b2-5a68-414c-88dc-3eef04f050ad)
+  ![image](https://github.com/MariaGelvison/AutoMarketSales_UAE_Part2/assets/170020192/1e46beb2-75f8-4c5f-8c49-1e34f352044d)
+
+
+Just by seeing these examples, how huge do you think the profit that car dealership's are  making for selling just 1 luxury car?
 
 
 ### Data Sources
